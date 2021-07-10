@@ -1,0 +1,17 @@
+{
+  "name": "3d-plot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "3d-plot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@lnjs/core": "^0.5.0",
+    "canvas-sketch": "^0.7.4",
+    "canvas-sketch-util": "^1.10.0"
+  }
+}
